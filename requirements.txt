@@ -1,0 +1,15 @@
+streamlit
+yt-dlp
+openai-whisper
+torch
+torchvision
+torchaudio
+transformers
+textblob
+pandas
+plotly
+ffmpeg-python
+sentencepiece
+protobuf
+setuptools
+wheel
